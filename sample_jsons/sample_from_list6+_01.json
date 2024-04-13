@@ -1,0 +1,87 @@
+[
+{
+    "药品序号": "184",
+    "活性成分": "拉氧头孢钠",
+    "英文通用名": "latamoxef",
+    "entryTerms": [
+        "Lamoxactam",
+        "Latamoxef",
+        "6059-S",
+        "6059 S",
+        "6059S",
+        "S-6059",
+        "S 6059",
+        "S6059",
+        "Shiomarin",
+        "Festamoxin",
+        "Lilly 127935",
+        "Ly-127935",
+        "Ly 127935",
+        "Ly127935",
+        "1-Oxacephalosporin",
+        "1 Oxacephalosporin",
+        "Moxalactam Disodium",
+        "Disodium, Moxalactam",
+        "Disodium Latamoxef",
+        "Latamoxef, Disodium",
+        "Disodium Moxalactam",
+        "Moxalactam, Disodium"
+    ],
+    "search": "((Moxalactam[Mesh]) OR (Moxalactam[Title/Abstract]) OR (latamoxef[Title/Abstract]) OR (Lamoxactam[Title/Abstract]) OR (Latamoxef[Title/Abstract]) OR (6059-S[Title/Abstract]) OR (\"6059 S\"[Title/Abstract]) OR (6059S[Title/Abstract]) OR (S-6059[Title/Abstract]) OR (\"S 6059\"[Title/Abstract]) OR (S6059[Title/Abstract]) OR (Shiomarin[Title/Abstract]) OR (Festamoxin[Title/Abstract]) OR (\"Lilly 127935\"[Title/Abstract]) OR (Ly-127935[Title/Abstract]) OR (\"Ly 127935\"[Title/Abstract]) OR (Ly127935[Title/Abstract]) OR (1-Oxacephalosporin[Title/Abstract]) OR (\"1 Oxacephalosporin\"[Title/Abstract]) OR (\"Moxalactam Disodium\"[Title/Abstract]) OR (\"Disodium, Moxalactam\"[Title/Abstract]) OR (\"Disodium Latamoxef\"[Title/Abstract]) OR (\"Latamoxef, Disodium\"[Title/Abstract]) OR (\"Disodium Moxalactam\"[Title/Abstract]) OR (\"Moxalactam, Disodium\"[Title/Abstract])) AND ((\"Adolescent\"[Mesh]) OR (\"Infant\"[Mesh]) OR (\"Infant, Newborn\"[Mesh]) OR (\"Child\"[Mesh]) OR (\"Child, Preschool\"[Mesh]) OR (\"Pediatrics\"[Mesh]) OR (pediatric* [Title/Abstract]) OR (paediatric*[Title/Abstract]) OR (child*[Title/Abstract]) OR (infant*[Title/Abstract]) OR (adolescent*[Title/Abstract]) OR (youth*[Title/Abstract]) OR (junior*[Title/Abstract]) OR (juvenile*[Title/Abstract]) OR (neonat*[Title/Abstract]) OR (newborn*[Title/Abstract]) OR (teenager*[Title/Abstract]) OR (toddler*[Title/Abstract]) OR (boy*[Title/Abstract]) OR (girl*[Title/Abstract]) OR (bab*[Title/Abstract]) OR (preschool*[Title/Abstract]) OR (pre-school*[Title/Abstract])) AND ((\"Study Characteristics\" [Publication Type]) OR (\"Guideline\" [Publication Type]) OR (\"Epidemiologic Studies\"[Mesh]) OR (\"Epidemiologic Research Design\"[Mesh]) OR (\"clinical trial*\"[Title/Abstract]) OR (\"systematic review*\"[Title/Abstract]) OR (\"n-of-1 trial*\"[Title/Abstract]) OR (\"case report*\"[Title/Abstract]) OR (\"case histor*\"[Title/Abstract]) OR (\"case-series\"[Title/Abstract]) OR (((experiment*[Title/Abstract]) OR (random*[Title/Abstract]) OR (cohort[Title/Abstract]) OR (\"case-control\"[Title/Abstract]) OR (\"single arm\"[Title/Abstract]) OR (\"cross sectional\"[Title/Abstract]) OR (concurrent[Title/Abstract]) OR (\"case referrent\"[Title/Abstract]) OR (control*[Title/Abstract]) OR (comparison[Title/Abstract]) OR (prospective[Title/Abstract]) OR (reprospective[Title/Abstract]) OR (observation*[Title/Abstract])) AND ((stud*[Title/Abstract]) OR (survey*[Title/Abstract]) OR (trial*[Title/Abstract]))))",
+    "data-chunk-ids": [
+        "6368777"
+    ],
+    "texts":[
+        {
+            "id": "6368777",
+            "doi": "10.1016/s0022-3476(84)81115-4",
+            "title": "Prospective comparative trial of moxalactam versus ampicillin or chloramphenicol for treatment of Haemophilus influenzae type b meningitis in children - PubMed",
+            "year": "1984 Mar",
+            "abstract": "In a prospective, randomized study, moxalactam in 44 children was compared with ampicillin or chloramphenicol in 47 children for the treatment of Haemophilus influenzae type b meningitis. Both groups were comparable in terms of clinical and laboratory findings at admission. The hospital course, neurologic sequelae including deafness, and number of deaths were the same for both groups. The incidence of adverse reactions also was the same except that diarrhea and thrombocytosis occurred significantly (P less than or equal to 0.04) more frequently in children given moxalactam. Moxalactam was equivalent to ampicillin or chloramphenicol in the treatment of H. influenzae type b meningitis in children.",
+            "临床试验编号": ""
+        }
+    ]
+},
+{
+    "药品序号": "151",
+    "活性成分": "加替沙星",
+    "英文通用名": "gatifloxacin",
+    "entryTerms": [
+        "1-cyclopropyl-1,4-dihydro-6-fluoro-8-methoxy-7-(3-methyl-1-piperazinyl)-4-oxo-3-quinolinecarboxylic acid",
+        "Gatifloxacine",
+        "Tequin",
+        "AM 1155",
+        "AM-1155",
+        "CG 5501",
+        "BMS-206584",
+        "BMS 206584",
+        "BMS206584",
+        "Zymar"
+    ],
+    "search": "((gatifloxacin[Mesh]) OR (gatifloxacin[Title/Abstract]) OR (\"1-cyclopropyl-1,4-dihydro-6-fluoro-8-methoxy-7-(3-methyl-1-piperazinyl)-4-oxo-3-quinolinecarboxylic acid\"[Title/Abstract]) OR (Gatifloxacine[Title/Abstract]) OR (Tequin[Title/Abstract]) OR (\"AM 1155\"[Title/Abstract]) OR (AM-1155[Title/Abstract]) OR (\"CG 5501\"[Title/Abstract]) OR (BMS-206584[Title/Abstract]) OR (\"BMS 206584\"[Title/Abstract]) OR (BMS206584[Title/Abstract]) OR (Zymar[Title/Abstract])) AND ((\"Adolescent\"[Mesh]) OR (\"Infant\"[Mesh]) OR (\"Infant, Newborn\"[Mesh]) OR (\"Child\"[Mesh]) OR (\"Child, Preschool\"[Mesh]) OR (\"Pediatrics\"[Mesh]) OR (pediatric* [Title/Abstract]) OR (paediatric*[Title/Abstract]) OR (child*[Title/Abstract]) OR (infant*[Title/Abstract]) OR (adolescent*[Title/Abstract]) OR (youth*[Title/Abstract]) OR (junior*[Title/Abstract]) OR (juvenile*[Title/Abstract]) OR (neonat*[Title/Abstract]) OR (newborn*[Title/Abstract]) OR (teenager*[Title/Abstract]) OR (toddler*[Title/Abstract]) OR (boy*[Title/Abstract]) OR (girl*[Title/Abstract]) OR (bab*[Title/Abstract]) OR (preschool*[Title/Abstract]) OR (pre-school*[Title/Abstract])) AND ((\"Study Characteristics\" [Publication Type]) OR (\"Guideline\" [Publication Type]) OR (\"Epidemiologic Studies\"[Mesh]) OR (\"Epidemiologic Research Design\"[Mesh]) OR (\"clinical trial*\"[Title/Abstract]) OR (\"systematic review*\"[Title/Abstract]) OR (\"n-of-1 trial*\"[Title/Abstract]) OR (\"case report*\"[Title/Abstract]) OR (\"case histor*\"[Title/Abstract]) OR (\"case-series\"[Title/Abstract]) OR (((experiment*[Title/Abstract]) OR (random*[Title/Abstract]) OR (cohort[Title/Abstract]) OR (\"case-control\"[Title/Abstract]) OR (\"single arm\"[Title/Abstract]) OR (\"cross sectional\"[Title/Abstract]) OR (concurrent[Title/Abstract]) OR (\"case referrent\"[Title/Abstract]) OR (control*[Title/Abstract]) OR (comparison[Title/Abstract]) OR (prospective[Title/Abstract]) OR (reprospective[Title/Abstract]) OR (observation*[Title/Abstract])) AND ((stud*[Title/Abstract]) OR (survey*[Title/Abstract]) OR (trial*[Title/Abstract]))))",
+    "data-chunk-ids": [
+        "18493312",
+        "25045453"
+    ],
+    "texts": [
+        {
+            "id": "18493312",
+            "doi": "PMC2374894",
+            "title": "A multi-center randomised controlled trial of gatifloxacin versus azithromycin for the treatment of uncomplicated typhoid fever in children and adults in Vietnam - PubMed",
+            "year": "2008 May 21",
+            "methods": "An open-label multi-centre randomised trial with pre-specified per protocol analysis and intention to treat analysis was conducted. The primary outcome was fever clearance time, the secondary outcome was overall treatment failure (clinical or microbiological failure, development of typhoid fever-related complications, relapse or faecal carriage of S. typhi).",
+            "abstract": "Background: Drug resistant typhoid fever is a major clinical problem globally. Many of the first line antibiotics, including the older generation fluoroquinolones, ciprofloxacin and ofloxacin, are failing. Objectives: We performed a randomised controlled trial to compare the efficacy and safety of gatifloxacin (10 mg/kg/day) versus azithromycin (20 mg/kg/day) as a once daily oral dose for 7 days for the treatment of uncomplicated typhoid fever in children and adults in Vietnam. Methods: An open-label multi-centre randomised trial with pre-specified per protocol analysis and intention to treat analysis was conducted. The primary outcome was fever clearance time, the secondary outcome was overall treatment failure (clinical or microbiological failure, development of typhoid fever-related complications, relapse or faecal carriage of S. typhi). Principal findings: We enrolled 358 children and adults with suspected typhoid fever. There was no death in the study. 287 patients had blood culture confirmed typhoid fever, 145 patients received gatifloxacin and 142 patients received azithromycin. The median FCT was 106 hours in both treatment arms (95% Confidence Interval [CI]; 94-118 hours for gatifloxacin versus 88-112 hours for azithromycin), (logrank test p = 0.984, HR [95% CI] = 1.0 [0.80-1.26]). Overall treatment failure occurred in 13/145 (9%) patients in the gatifloxacin group and 13/140 (9.3%) patients in the azithromycin group, (logrank test p = 0.854, HR [95% CI] = 0.93 [0.43-2.0]). 96% (254/263) of the Salmonella enterica serovar Typhi isolates were resistant to nalidixic acid and 58% (153/263) were multidrug resistant. Conclusions: Both antibiotics showed an excellent efficacy and safety profile. Both gatifloxacin and azithromycin can be recommended for the treatment of typhoid fever particularly in regions with high rates of multidrug and nalidixic acid resistance. The cost of a 7-day treatment course of gatifloxacin is approximately one third of the cost of azithromycin in Vietnam. Trial registration: Controlled-Trials.com ISRCTN67946944.",
+            "临床试验编号": ""
+        },
+        {
+            "id": "25045453",
+            "doi": "PMC4103504",
+            "title": "Comparison of Antimicrobial Sensitivity to Older and Newer Quinolones versus Piperacillin-Tazobactam, Cefepime and Meropenem in Febrile Patients with Cancer in two Referral Pediatric Centers in Tehran, Iran - PubMed",
+            "year": "2014 Jul 1",
+            "methods": "Children with cancer who were admitted with or developed fever during admission to Aliasghar Children's Hospital or Mahak Hospitals July 2009 through June 2011 were eligible for enrollment. Two blood cultures were obtained. Antimicrobial sensitivity test was performed for ciprofloxacin, moxifloxacin, gatifloxacin, meropenem, cefepime, and piperacillin-tazobactam on isolates from children who were bacteremic.",
+            "abstract": "Background: Infection in pediatric cancer patients has become a concerning problem due to increasing antimicrobial resistance. The goal of this study was to determine the antimicrobial resistance patterns of blood isolates from pediatric oncology patients in Iran to determine if there was significant resistance to quinolones. Methods: Children with cancer who were admitted with or developed fever during admission to Aliasghar Children's Hospital or Mahak Hospitals July 2009 through June 2011 were eligible for enrollment. Two blood cultures were obtained. Antimicrobial sensitivity test was performed for ciprofloxacin, moxifloxacin, gatifloxacin, meropenem, cefepime, and piperacillin-tazobactam on isolates from children who were bacteremic. Results: Blood cultures were positive for 38 episodes in 169 enrolled children but 9 episodes were excluded as blood cultures were thought to be contaminated, yielding a bacteremia rate of 29/160 (18%). The mean age of children and the stage of malignancy did not differ between those with and without bacteremia. Meropenem was the most likely antibiotic to cover isolates (97%) with cefepime having the lowest coverage rate (21%). Quinolone coverage ranged from 63% to 76%. Conclusion: Quinolones may not be suitable for use as empiric therapy in febrile pediatric oncology patients in Iran.",
+            "临床试验编号": ""
+        }
+    ]
+}
+]

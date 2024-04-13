@@ -1,0 +1,45 @@
+[
+    {
+        "药品序号": "184",
+        "活性成分": "拉氧头孢钠",
+        "英文通用名": "latamoxef",
+        "entryTerms": [
+            "Lamoxactam",
+            "Latamoxef",
+            "6059-S",
+            "6059 S",
+            "6059S",
+            "S-6059",
+            "S 6059",
+            "S6059",
+            "Shiomarin",
+            "Festamoxin",
+            "Lilly 127935",
+            "Ly-127935",
+            "Ly 127935",
+            "Ly127935",
+            "1-Oxacephalosporin",
+            "1 Oxacephalosporin",
+            "Moxalactam Disodium",
+            "Disodium, Moxalactam",
+            "Disodium Latamoxef",
+            "Latamoxef, Disodium",
+            "Disodium Moxalactam",
+            "Moxalactam, Disodium"
+        ],
+        "search": "((Moxalactam[Mesh]) OR (Moxalactam[Title/Abstract]) OR (latamoxef[Title/Abstract]) OR (Lamoxactam[Title/Abstract]) OR (Latamoxef[Title/Abstract]) OR (6059-S[Title/Abstract]) OR (\"6059 S\"[Title/Abstract]) OR (6059S[Title/Abstract]) OR (S-6059[Title/Abstract]) OR (\"S 6059\"[Title/Abstract]) OR (S6059[Title/Abstract]) OR (Shiomarin[Title/Abstract]) OR (Festamoxin[Title/Abstract]) OR (\"Lilly 127935\"[Title/Abstract]) OR (Ly-127935[Title/Abstract]) OR (\"Ly 127935\"[Title/Abstract]) OR (Ly127935[Title/Abstract]) OR (1-Oxacephalosporin[Title/Abstract]) OR (\"1 Oxacephalosporin\"[Title/Abstract]) OR (\"Moxalactam Disodium\"[Title/Abstract]) OR (\"Disodium, Moxalactam\"[Title/Abstract]) OR (\"Disodium Latamoxef\"[Title/Abstract]) OR (\"Latamoxef, Disodium\"[Title/Abstract]) OR (\"Disodium Moxalactam\"[Title/Abstract]) OR (\"Moxalactam, Disodium\"[Title/Abstract])) AND ((\"Adolescent\"[Mesh]) OR (\"Infant\"[Mesh]) OR (\"Infant, Newborn\"[Mesh]) OR (\"Child\"[Mesh]) OR (\"Child, Preschool\"[Mesh]) OR (\"Pediatrics\"[Mesh]) OR (pediatric* [Title/Abstract]) OR (paediatric*[Title/Abstract]) OR (child*[Title/Abstract]) OR (infant*[Title/Abstract]) OR (adolescent*[Title/Abstract]) OR (youth*[Title/Abstract]) OR (junior*[Title/Abstract]) OR (juvenile*[Title/Abstract]) OR (neonat*[Title/Abstract]) OR (newborn*[Title/Abstract]) OR (teenager*[Title/Abstract]) OR (toddler*[Title/Abstract]) OR (boy*[Title/Abstract]) OR (girl*[Title/Abstract]) OR (bab*[Title/Abstract]) OR (preschool*[Title/Abstract]) OR (pre-school*[Title/Abstract])) AND ((\"Study Characteristics\" [Publication Type]) OR (\"Guideline\" [Publication Type]) OR (\"Epidemiologic Studies\"[Mesh]) OR (\"Epidemiologic Research Design\"[Mesh]) OR (\"clinical trial*\"[Title/Abstract]) OR (\"systematic review*\"[Title/Abstract]) OR (\"n-of-1 trial*\"[Title/Abstract]) OR (\"case report*\"[Title/Abstract]) OR (\"case histor*\"[Title/Abstract]) OR (\"case-series\"[Title/Abstract]) OR (((experiment*[Title/Abstract]) OR (random*[Title/Abstract]) OR (cohort[Title/Abstract]) OR (\"case-control\"[Title/Abstract]) OR (\"single arm\"[Title/Abstract]) OR (\"cross sectional\"[Title/Abstract]) OR (concurrent[Title/Abstract]) OR (\"case referrent\"[Title/Abstract]) OR (control*[Title/Abstract]) OR (comparison[Title/Abstract]) OR (prospective[Title/Abstract]) OR (reprospective[Title/Abstract]) OR (observation*[Title/Abstract])) AND ((stud*[Title/Abstract]) OR (survey*[Title/Abstract]) OR (trial*[Title/Abstract]))))",
+        "data-chunk-ids": [
+            "6368777"
+        ],
+        "texts":[
+            {
+                "id": "6368777",
+                "doi": "10.1016/s0022-3476(84)81115-4",
+                "title": "Prospective comparative trial of moxalactam versus ampicillin or chloramphenicol for treatment of Haemophilus influenzae type b meningitis in children - PubMed",
+                "year": "1984 Mar",
+                "abstract": "In a prospective, randomized study, moxalactam in 44 children was compared with ampicillin or chloramphenicol in 47 children for the treatment of Haemophilus influenzae type b meningitis. Both groups were comparable in terms of clinical and laboratory findings at admission. The hospital course, neurologic sequelae including deafness, and number of deaths were the same for both groups. The incidence of adverse reactions also was the same except that diarrhea and thrombocytosis occurred significantly (P less than or equal to 0.04) more frequently in children given moxalactam. Moxalactam was equivalent to ampicillin or chloramphenicol in the treatment of H. influenzae type b meningitis in children.",
+                "临床试验编号": ""
+            }
+        ]
+    }
+]
